@@ -8,7 +8,7 @@ Repository with some resources that I use to learn Elixir
 I started reading this tutorial in order to learn the basics as syntax, module definition and etc.
 * Getting Started - https://elixir-lang.org/getting-started
 
-Finishing the basics I read some topics in link below
+Finishing the basics I read some topics in the link below
 * Elixir School - https://elixirschool.com/en/
 
 ### Book
