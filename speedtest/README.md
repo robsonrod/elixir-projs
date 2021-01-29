@@ -1,7 +1,5 @@
 # Speedtest
 
-**TODO: Add description**
-
 **Tasks**
 
 * Acess Speedtest API
