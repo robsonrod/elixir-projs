@@ -5,9 +5,8 @@
 * Acess Speedtest API
 * Parse data
 * Find better server location
-
 * Add Phoenix ?
-* Persist data
+* Persist data ?
 
 
 ## Installation
