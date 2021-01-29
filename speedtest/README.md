@@ -3,9 +3,10 @@
 **Tasks**
 
 * Acess Speedtest API
-* Parse API from Speedtest
-* Find better location
-* Add Phoenix
+* Parse data
+* Find better server location
+
+* Add Phoenix ?
 * Persist data
 
 
