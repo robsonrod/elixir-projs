@@ -1,7 +1,7 @@
 defmodule Speedtest.Server do
   alias Speedtest.ServerInfo
-  @speedtest_servers_url "http://www.speedtest.net/speedtest-servers-static.php"
 
+  @speedtest_servers_url "http://www.speedtest.net/speedtest-servers-static.php"
   def default_url, do: @speedtest_servers_url
 
   def fetch_servers(url) do
