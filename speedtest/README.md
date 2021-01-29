@@ -2,6 +2,14 @@
 
 **TODO: Add description**
 
+** Tasks
+
+* Acess Speedtest API
+* Parse API from Speedtest
+* Find better location
+* Add Phoenix
+* Persist data
+
 
 ## Installation
 
